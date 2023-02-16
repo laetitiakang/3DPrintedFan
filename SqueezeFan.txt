@@ -1,0 +1,19 @@
+
+The following new relationships are mapped in motion.
+Axial11
+Planar12
+Planar13
+Planar14
+Axial15
+Axial16
+Axial17
+Planar18
+Axial19
+Axial20
+Axial21
+Axial22
+Axial23
+Planar24
+Planar25
+Planar26
+Planar27
